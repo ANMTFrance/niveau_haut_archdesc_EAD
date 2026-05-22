@@ -5,3 +5,9 @@ Ce script transforme un ensemble d'instruments de recherche en XML EAD en un tab
 Les fichiers XML EAD en question doivent se situer dans un répertoire "EAD" placé au même niveau que le script.
 
 Le script a été conçu pour une utilisation avec des fichiers générés par le SIA Ligeo Gestion mais s'adapte facilement à d'autres applications.
+
+## License
+
+Licensed under the Apache License 2.0.
+
+Copyright (c) 2026 Archives nationales du monde du travail
